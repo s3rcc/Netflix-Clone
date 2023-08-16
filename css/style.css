@@ -39,7 +39,7 @@ input,a {
 /*     background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 1)), url(/IMG/VN-en-20230807-popsignuptwoweeks-perspective_alpha_website_large.jpg); */
 /*     background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 1)), url(/IMG/VN-en-20230807-popsignuptwoweeks-perspective_alpha_website_large.jpg); */
     background-image: url(/IMG/VN-en-20230807-popsignuptwoweeks-perspective_alpha_website_large.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 1)), url(/IMG/VN-en-20230807-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 1)), url(https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/93122675-8500-4b7c-818b-89a3474a06ab/VN-vi-20230814-popsignuptwoweeks-perspective_alpha_website_small.jpg);
     background-size: 120%;
     background-position: center;
 }
